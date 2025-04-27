@@ -28,7 +28,7 @@ Matplotlib
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 .
 
-#Future Work
+# Future Work
 Real-time detection on mobile devices
 
 Support for more plant species and diseases
